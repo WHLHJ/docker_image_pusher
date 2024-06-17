@@ -14,3 +14,4 @@ semitechnologies/weaviate:1.19.0
 ubuntu/squid:latest
 nginx:latest
 pgvector/pgvector:pg16
+python
