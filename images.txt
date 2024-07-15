@@ -19,7 +19,8 @@
 #langgenius/dify-web:0.6.10
 #linuxserver/qbittorrent
 #yixinrushi/video_tools:slim-0.2
-ghcr.io/open-webui/open-webui:cuda
+#ghcr.io/open-webui/open-webui:cuda
+python
 
 
 
