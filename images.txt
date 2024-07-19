@@ -4,8 +4,8 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-langgenius/dify-api:0.6.14
-#langgenius/dify-web:0.6.11
+#langgenius/dify-api:0.6.14
+langgenius/dify-web:0.6.14
 #postgres:15-alpine
 #redis:6-alpine
 #semitechnologies/weaviate:1.19.0
@@ -13,15 +13,15 @@ langgenius/dify-api:0.6.14
 #ubuntu/squid:latest
 #langgenius/qdrant:v1.7.3
 #pgvector/pgvector:pg16
-tensorchord/pgvecto-rs:pg16-v0.2.0
-ghcr.io/chroma-core/chroma:0.5.1
-container-registry.oracle.com/database/free:latest
-quay.io/coreos/etcd:v3.5.5
-minio/minio:RELEASE.2023-03-20T20-16-18Z
-milvusdb/milvus:v2.3.1
-opensearchproject/opensearch:latest
-opensearchproject/opensearch-dashboards:latest
-myscale/myscaledb:1.6
+#tensorchord/pgvecto-rs:pg16-v0.2.0
+#ghcr.io/chroma-core/chroma:0.5.1
+#container-registry.oracle.com/database/free:latest
+#quay.io/coreos/etcd:v3.5.5
+#minio/minio:RELEASE.2023-03-20T20-16-18Z
+#milvusdb/milvus:v2.3.1
+#opensearchproject/opensearch:latest
+#opensearchproject/opensearch-dashboards:latest
+#myscale/myscaledb:1.6
 #nginx:latest
 
 #langgenius/dify-api:0.6.10
