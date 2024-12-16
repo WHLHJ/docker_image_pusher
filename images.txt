@@ -1,1 +1,1 @@
-node:20.11-alpine3.19
+gpustack/gpustack:latest
