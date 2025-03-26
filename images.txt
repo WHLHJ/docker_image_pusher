@@ -1,1 +1,1 @@
-tugraph/tugraph-compile-ubuntu18.04
+tugraph/tugraph-runtime-ubuntu18.04
