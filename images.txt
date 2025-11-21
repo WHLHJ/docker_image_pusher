@@ -1,5 +1,5 @@
 langgenius/dify-api:1.10.0
-image: langgenius/dify-web:1.10.0
+langgenius/dify-web:1.10.0
 postgres:15-alpine
 mysql:8.0
 redis:6-alpine
