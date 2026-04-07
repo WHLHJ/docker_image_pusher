@@ -1,2 +1,4 @@
-python:3.10
-python:3.9
+onyxdotapp/code-interpreter:latest
+opensearchproject/opensearch:3.4.0
+vespaengine/vespa:8.609.39
+redis:7.4-alpine
