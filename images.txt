@@ -2,3 +2,4 @@ onyxdotapp/code-interpreter:latest
 opensearchproject/opensearch:3.4.0
 vespaengine/vespa:8.609.39
 redis:7.4-alpine
+
